@@ -1,0 +1,23 @@
+body{
+	background-color: #080808;
+	font-size: 13px;
+	color: #fbf8f8;
+}
+span{
+	color: #34f31f;
+	font-size: 20px;
+}
+
+#chatMessages{
+	margin-bottom: 10px;
+	border: 1px  solid ; 
+	height: 300px;
+	width: 180px;
+}
+/*
+#div_left{
+	float: left;
+}
+#div_right{
+	float: right;
+}*/
